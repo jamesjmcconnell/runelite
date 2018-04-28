@@ -77,6 +77,7 @@ public interface NPCComposition
 	 * Get the {@link NpcID}s of NPCs this can transform into, depending
 	 * on a {@link Varbits} or {@link VarPlayer}
 	 */
+
 	int[] getConfigs();
 
 	/**
@@ -96,4 +97,5 @@ public interface NPCComposition
 	 * Gets the displayed overhead icon of the NPC.
 	 */
 	HeadIcon getOverheadIcon();
+
 }

@@ -166,6 +166,7 @@ public final class AnimationID
 	public static final int USING_GILDED_ALTAR = 3705;
 	public static final int LOOKING_INTO = 832;
 	public static final int DIG = 830;
+	public static final int VENGEANCE_OTHER = 4411;
 	public static final int DEMONIC_GORILLA_MAGIC_ATTACK = 7225;
 	public static final int DEMONIC_GORILLA_MELEE_ATTACK = 7226;
 	public static final int DEMONIC_GORILLA_RANGED_ATTACK = 7227;
